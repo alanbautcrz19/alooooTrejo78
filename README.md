@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on ITSOEH.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java and html.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with Java and others.
 - 💬 Ask me about my favorite programming language .
